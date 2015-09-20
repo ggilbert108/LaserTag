@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Laser Tag:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Laser_Tag_jar</output-path>
+    <root id="archive" name="Laser Tag.jar">
+      <element id="module-output" name="Laser Tag" />
+    </root>
+  </artifact>
+</component>
